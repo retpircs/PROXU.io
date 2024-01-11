@@ -67,6 +67,11 @@ export function Header() {
                   Icon={RxMixerVertical}
                   translationKey="header.settings"
                 />
+                <HeaderButton
+                  href="/discord"
+                  Icon={RiLinksFill}
+                  translationKey="header.discord"
+                />
               </div>
             </div>
           </div>
@@ -97,6 +102,11 @@ export function Header() {
                   href="/settings"
                   Icon={RxMixerVertical}
                   translationKey="header.settings"
+                />
+                <HeaderButton
+                  href="/discord"
+                  Icon={RiLinksFill}
+                  translationKey="header.discord"
                 />
               </div>
             </div>

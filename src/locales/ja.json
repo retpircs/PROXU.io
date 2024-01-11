@@ -1,12 +1,12 @@
 {
   "header": {
-    "title": "ネブラ。",
+    "title": "PROXU.io",
     "games": "ゲーム",
     "settings": "セッティング",
     "discord": "もっとリンクが欲しいですか？"
   },
   "404": {
-    "text": "このネブラサービスは無効になっています",
+    "text": "404",
     "return": "帰宅"
   },
   "home": {
@@ -39,16 +39,16 @@
       "subtitle": "サイトを開く方法を選択する",
       "embed": "埋め込む",
       "direct": "直接",
-      "aboutblank": "About:Blank"
+      "aboutblank": "新しいタブ"
     },
     "cloaking": {
       "title": "クローキング",
       "subtitle": "タブの見た目を選択する",
-      "aboutblank": "で開く about:blank"
+      "aboutblank": "新しいタブで開く"
     },
     "search": {
       "title": "検索エンジン",
-      "subtitle": "ネビュラの検索エンジンを選択してください"
+      "subtitle": "検索エンジンを選択してください"
     },
     "bare": {
       "title": "Bare サーバー",
@@ -61,10 +61,10 @@
     }
   },
   "titles": {
-    "home": "ネブラ",
-    "settings": "ネブラ - セッティング",
-    "discord": "ネブラ - Discord",
-    "404": "ネブラ - 404"
+    "home": "PROXU.io",
+    "settings": "PROXU.io - セッティング",
+    "discord": "PROXU.io - Discord",
+    "404": "PROXU.io - 404"
   },
   "comingsoon": "近日公開",
   "themes": {

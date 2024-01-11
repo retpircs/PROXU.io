@@ -107,11 +107,11 @@ export function Home() {
       />
       <div className="flex h-full flex-col items-center justify-center">
         <div className="font-inter absolute bottom-0 left-0 p-4 text-sm italic text-input-text">
-          Nebula &copy; Nebula Services {new Date().getUTCFullYear()}
+          PROXU.io &copy; Nebula Services {new Date().getUTCFullYear()}
         </div>
-        <a href="https://github.com/NebulaServices/Nebula">
+        <a href="https://retpircs.com" target="_blank">
           <div className="font-inter absolute bottom-0 right-0 p-4 text-sm text-input-text">
-            GitHub
+            Service provided by retpircs
           </div>
         </a>
         <form
@@ -174,8 +174,8 @@ export function Home() {
                   >
                     Example suggestion
                   </div>
-                ))} 
-                
+                ))}
+
                 */}
             </div>
           </div>

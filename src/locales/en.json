@@ -1,12 +1,12 @@
 {
   "header": {
-    "title": "nebula.",
+    "title": "PROXU.io",
     "games": "Games",
     "settings": "Settings",
     "discord": "Want more links?"
   },
   "404": {
-    "text": "This Nebula Service has been disabled.",
+    "text": "404",
     "return": "Back to home"
   },
   "home": {
@@ -39,12 +39,12 @@
       "subtitle": "Choose how to open your sites",
       "embed": "Embed",
       "direct": "Direct",
-      "aboutblank": "About:Blank"
+      "aboutblank": "New tab"
     },
     "cloaking": {
       "title": "Cloaking",
       "subtitle": "Choose how your tab looks",
-      "aboutblank": "Open in about:blank"
+      "aboutblank": "Open in new Tab"
     },
     "search": {
       "title": "Search Engine",
@@ -62,10 +62,10 @@
     }
   },
   "titles": {
-    "home": "Nebula",
-    "settings": "Nebula - Settings",
-    "discord": "Nebula - Discord",
-    "404": "Nebula - 404"
+    "home": "PROXU.io",
+    "settings": "PROXU.io - Settings",
+    "discord": "PROXU.io - Discord",
+    "404": "PROXU.io - 404"
   },
   "comingsoon": "Coming soon!",
   "themes": {

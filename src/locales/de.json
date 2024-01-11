@@ -1,0 +1,80 @@
+{
+    "header": {
+        "title": "PROXU.io",
+        "games": "Spiele",
+        "settings": "Einstellungen",
+        "discord": "Möchtest du mehr Links?"
+    },
+    "404": {
+        "text": "404",
+        "return": "Zurück zur Startseite"
+    },
+    "home": {
+        "placeholder": "Suche frei im Web"
+    },
+    "discord": {
+        "title": "Nebula’s Discord Server",
+        "sub": "Möchtest du dies über einen Proxy öffnen?",
+        "button1": "Normal öffnen",
+        "button2": "Proxy verwenden"
+    },
+    "settings": {
+        "tabs": {
+            "proxy": "Proxy",
+            "tab": "Tab",
+            "custom": "Anpassung",
+            "misc": "Sonstiges"
+        },
+        "proxy": {
+            "title": "Proxy",
+            "subtitle": "Wähle den Proxy, der deinen Bedürfnissen entspricht",
+            "automatic": "Automatisch"
+        },
+        "languages": {
+            "title": "Sprache",
+            "subtitle": "Wähle deine bevorzugte Sprache"
+        },
+        "proxymodes": {
+            "title": "Öffnen in",
+            "subtitle": "Wähle, wie du deine Seiten öffnen möchtest",
+            "embed": "Einbetten",
+            "direct": "Direkt",
+            "aboutblank": "Neuer Tab"
+        },
+        "cloaking": {
+            "title": "Tarnung",
+            "subtitle": "Wähle, wie dein Tab aussehen soll",
+            "aboutblank": "In neuem Tab öffnen"
+        },
+        "search": {
+            "title": "Suchmaschine",
+            "subtitle": "Wähle deine Suchmaschine"
+        },
+        "bare": {
+            "title": "Bare Server",
+            "subtitle": "Gib die URL deines Bare-Servers ein",
+            "select": "Auswählen"
+        },
+        "theme": {
+            "title": "Thema",
+            "subtitle": "Wähle ein Thema, damit deine Augen uns nicht hassen",
+            "select": "Auswählen"
+        }
+    },
+    "titles": {
+        "home": "PROXU.io",
+        "settings": "PROXU.io - Einstellungen",
+        "discord": "PROXU.io - Discord",
+        "404": "PROXU.io - 404"
+    },
+    "comingsoon": "Bald verfügbar!",
+    "themes": {
+        "main": "Standard",
+        "catppuccinMocha": "Catppuccin Mokka",
+        "catppuccinMacchiato": "Catppuccin Macchiato",
+        "catppuccinFrappe": "Catppuccin Frappe",
+        "catppuccinLatte": "Catppuccin Latte"
+    },
+    "clipboard": "URL in Zwischenablage kopiert!",
+    "bareError": "Das hat nicht ganz geklappt. Überprüfe, ob der Bare-Server existiert und nicht blockiert ist."
+}

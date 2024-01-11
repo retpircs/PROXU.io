@@ -22,6 +22,8 @@ const Proxy = ({ id, active }) => {
 
   const searchEngines = [
     { id: "https://duckduckgo.com/?q=%s", label: "DuckDuckGo" },
+    { id: "https://search.brave.com/search?q=%s", label: "Brave Search" },
+    { id: "https://startpage.com/search?q=%s", label: "Startpage" },
     { id: "https://google.com/search?q=%s", label: "Google" },
     { id: "https://bing.com/search?q=%s", label: "Bing" }
   ];

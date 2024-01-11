@@ -1,12 +1,12 @@
 {
   "header": {
-    "title": "nebula.",
+    "title": "PROXU.io",
     "games": "Juegos",
     "settings": "Ajustes",
     "discord": "¿Quieres más enlaces?"
   },
   "404": {
-    "text": "Este servicio Nebula ha sido deshabilitado.",
+    "text": "404",
     "return": "De vuelta a casa"
   },
   "home": {
@@ -39,12 +39,12 @@
       "subtitle": "Elige cómo abrir tus sitios",
       "embed": "Incrustar",
       "direct": "Directo",
-      "aboutblank": "About:Blank"
+      "aboutblank": "Nueva pestaña"
     },
     "cloaking": {
       "title": "Encubrimiento",
       "subtitle": "Elige cómo se ve tu pestaña",
-      "aboutblank": "Abierte en about:blank"
+      "aboutblank": "Abrir en una nueva pestaña"
     },
     "search": {
       "title": "Buscador",
@@ -61,10 +61,10 @@
     }
   },
   "titles": {
-    "home": "Nebula",
-    "settings": "Nebula - Ajustes",
-    "discord": "Nebula - Discord",
-    "404": "Nebula - 404"
+    "home": "PROXU.io",
+    "settings": "PROXU.io - Ajustes",
+    "discord": "PROXU.io - Discord",
+    "404": "PROXU.io - 404"
   },
   "comingsoon": "¡Próximamente!",
   "themes": {

@@ -8,6 +8,7 @@ const Misc = ({ id, active }) => {
 
   const languages = [
     { id: "en-US", label: "English" },
+    { id: "de", label: "Deutsch" },
     { id: "es", label: "Español" },
     { id: "ja", label: "日本語" }
   ];
